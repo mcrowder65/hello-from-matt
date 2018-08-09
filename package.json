@@ -1,0 +1,23 @@
+{
+  "name": "hello-from-matt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "hello-from-matt": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcrowder65/hello-from-matt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcrowder65/hello-from-matt/issues"
+  },
+  "homepage": "https://github.com/mcrowder65/hello-from-matt#readme"
+}
